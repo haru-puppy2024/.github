@@ -1,1 +1,0 @@
-# haru-puppy2024
