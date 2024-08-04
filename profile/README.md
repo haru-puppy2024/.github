@@ -89,17 +89,16 @@
 
 | 홈페이지| 스케줄 캘린더| 스케줄 TODO| 스케줄 상세 조회 |
 | :------: | :-------: | :----------: | :---------: |
-|  ![홈페이지](https://github.com/user-attachments/assets/b4e99672-bc36-42e2-9dda-8f9244ded32c)  | ![스케줄 캘린더](https://github.com/user-attachments/assets/1de17de0-79fd-4cef-aca0-e24e7868a532)|  ![스케줄 TODO]() |  ![스케줄 단일 조회]()  |
+|  ![홈페이지](https://github.com/user-attachments/assets/b4e99672-bc36-42e2-9dda-8f9244ded32c)  | ![스케줄 캘린더](https://github.com/user-attachments/assets/1de17de0-79fd-4cef-aca0-e24e7868a532)|  ![스케줄 TODO](https://github.com/user-attachments/assets/bf479e0e-6376-45b8-a4cb-602458b2684b) |  ![스케줄 단일 조회](https://github.com/user-attachments/assets/a428f8c6-418e-4438-bb24-cbde29eae19b)  |
 |  강아지 정보, 메이트 정보, <br> 레포트, 주간 산책 랭킹을 확인할 수 있습니다. <br> 오늘의 배변횟수를 기록할 수 있습니다. |  캘린더를 월별, 주별로 볼 수 있고 <br> 스케줄 유무를 확인할 수 있습니다. | 스케줄 TODO 카드에서 해야할 활동, 담당자, <br> 시간 등을 확인하고 수정할 수 있습니다. | 스케줄 TODO 카드를 클릭하면 해당 스케줄을 상세 조회할 수 있습니다. |
-
-
 
 ### 3) 스케줄 생성, 수정, 삭제
 
 | 새 스케줄 생성| 단일 스케줄 수정| 반복 스케줄 수정 | 스케줄 삭제 |
 | :--------: | :--------: | :--------: | :-----: |
-| ![새 스케줄 생성](https://github.com/user-attachments/assets/8b46b1c0-f442-4716-a5ba-b4a36301e5e6) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/58c8abb0-dd07-467f-9add-2fe26f17e3b7) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/c778b4c2-de96-48d8-aef7-8049463590a0) | ![스케줄 삭제](https://github.com/user-attachments/assets/b24c98c7-653a-4efe-882b-fa708232c1f4) |
+| ![새 스케줄 생성](https://github.com/user-attachments/assets/49e22e57-49dc-491c-ae80-cda3963522a7) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/58c8abb0-dd07-467f-9add-2fe26f17e3b7) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/c778b4c2-de96-48d8-aef7-8049463590a0) | ![스케줄 삭제](https://github.com/user-attachments/assets/b24c98c7-653a-4efe-882b-fa708232c1f4) |
 | 할 일, 담당자, 날짜, 시간, 반복, 알림, 메모 등을 <br> 입력하여 새 스케줄을 생성할 수 있습니다. | 반복되지 않는 단일 스케줄의 경우에는  <br> 할 일, 날짜, 시간, 반복, 메모 항목을 변경할 수 있습니다. | 반복 스케줄의 경우에는 이후 스케줄도 변경할지 혹은 해당 스케줄만 변경할지 선택할 수 있습니다. | 스케줄 삭제가 가능합니다. 반복 스케줄의 경우에는 <br> 이후 스케줄도 삭제할지 혹은 해당 스케줄만 삭제할지 선택할 수 있습니다. |
+
 
 
 ### 4) 설정 페이지 기타 기능
