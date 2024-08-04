@@ -108,6 +108,8 @@
 | ![설정 페이지](https://github.com/user-attachments/assets/d3b62fb1-a3e7-4032-b940-8dd6241f2b47) | ![내 프로필 수정](https://github.com/user-attachments/assets/be4b459a-14a1-4254-a988-d52c4195c086) | ![강아지 프로필 수정](https://github.com/user-attachments/assets/397edce4-8026-4e64-a4fe-10323b6059aa)  |  ![메이트 초대하기](https://github.com/user-attachments/assets/a14fd2aa-f35e-4fdc-94ca-b8d873d5a3c5) 
 | 설정 페이지에서 알림 토글, 로그아웃, 회원탈퇴 등의 <br> 기능을 확인할 수 있습니다. | 내 프로필 수정을 할 수 있습니다. | 강아지 프로필 수정을 할 수 있습니다.  | 강아지를 같이 케어할 메이트를 초대할 수 있습니다.  |
 
+
+<!--
 ## 7. 핵심 코드
 
 ### 1) 
@@ -115,7 +117,7 @@
 ```js
 
 ```
-
+-->
 
 ## 8. 레슨런 및 스페셜 포인트
 
@@ -123,7 +125,6 @@
 
 - SSR 서버사이드 렌더링과 동적 라우팅
 - 파괴적 변경을 방지하기 위한 헤드리스 컴포넌트 설계의 중요성
-- 
 
 ### 2) 팀원 간 커뮤니케이션 
 
