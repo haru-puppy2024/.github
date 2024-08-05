@@ -80,25 +80,26 @@
 ### 1) 로그인 및 회원가입
 
 | 로그인 | 내 프로필 | 강아지 프로필 | 로그아웃
-| :-------: | :--------: |  :--------: | :--------: |
-  | ![로그인](https://github.com/user-attachments/assets/77ef85f9-e8d6-41ca-9b98-6597ac635895) | ![내 프로필](https://github.com/user-attachments/assets/72c048d6-326b-4ff4-8edd-5049c0ceab0a) | ![강아지 프로필](https://github.com/user-attachments/assets/56441bf3-1303-484c-8cd1-fdaf906c915c) | ![로그아웃](https://github.com/user-attachments/assets/d271fae1-e76d-4bc6-ae16-325ad5d25877)
+| :-------------: | :----------------: | :---------------: | :---------------: |
+| ![로그인](https://github.com/user-attachments/assets/77ef85f9-e8d6-41ca-9b98-6597ac635895) | ![내 프로필](https://github.com/user-attachments/assets/ebf3cd8a-9004-4a83-9619-855d7dffeeb2) | ![강아지 프로필](https://github.com/user-attachments/assets/56441bf3-1303-484c-8cd1-fdaf906c915c) | ![로그아웃](https://github.com/user-attachments/assets/d271fae1-e76d-4bc6-ae16-325ad5d25877)
 | 서비스 접속시 <br>처음에 보이는 화면입니다. |   카카오 OAuth로 로그인 및 회원가입할 수 있습니다. <br> 초대 받은 유저의 경우 내 프로필만 입력하면 바로 회원가입됩니다.  | 유저 프로필에서 이미지, 닉네임, 역할을 입력할 수 있습니다. | 강아지 프로필에서 이미지, 강아지 이름, 생일, 체중을 입력할 수 있습니다. <br> 모두 입력하면 회원가입이 완료됩니다.  | 설정 페이지에서 로그아웃탭을 클릭하면 바로 로그아웃 후 로그인 페이지로 되돌아갑니다. 
+
+
 
 
 ###  2) 홈페이지, 스케줄 메인 페이지
 
 | 홈페이지| 스케줄 캘린더| 스케줄 TODO| 스케줄 상세 조회 |
-| :------: | :-------: | :----------: | :---------: |
-|  ![홈페이지](https://github.com/user-attachments/assets/b4e99672-bc36-42e2-9dda-8f9244ded32c)  | ![스케줄 캘린더](https://github.com/user-attachments/assets/1de17de0-79fd-4cef-aca0-e24e7868a532)|  ![스케줄 TODO](https://github.com/user-attachments/assets/bf479e0e-6376-45b8-a4cb-602458b2684b) |  ![스케줄 단일 조회](https://github.com/user-attachments/assets/a428f8c6-418e-4438-bb24-cbde29eae19b)  |
+| :-------------: | :----------------: | :---------------: | :---------------: |
+|  ![홈페이지](https://github.com/user-attachments/assets/b4e99672-bc36-42e2-9dda-8f9244ded32c)  | ![스케줄 캘린더](https://github.com/user-attachments/assets/174003bb-d31e-4536-a996-34fbf3bc38c6)| ![스케줄 TODO](https://github.com/user-attachments/assets/bf479e0e-6376-45b8-a4cb-602458b2684b) | ![스케줄 단일 조회](https://github.com/user-attachments/assets/a428f8c6-418e-4438-bb24-cbde29eae19b)  |
 |  강아지 정보, 메이트 정보, <br> 레포트, 주간 산책 랭킹을 확인할 수 있습니다. <br> 오늘의 배변횟수를 기록할 수 있습니다. |  캘린더를 월별, 주별로 볼 수 있고 <br> 스케줄 유무를 확인할 수 있습니다. | 스케줄 TODO 카드에서 해야할 활동, 담당자, <br> 시간 등을 확인하고 수정할 수 있습니다. | 스케줄 TODO 카드를 클릭하면 해당 스케줄을 상세 조회할 수 있습니다. |
 
 ### 3) 스케줄 생성, 수정, 삭제
 
 | 새 스케줄 생성| 단일 스케줄 수정| 반복 스케줄 수정 | 스케줄 삭제 |
-| :--------: | :--------: | :--------: | :-----: |
-| ![새 스케줄 생성](https://github.com/user-attachments/assets/49e22e57-49dc-491c-ae80-cda3963522a7) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/525af6a8-87d0-47b9-9702-5ca93382bdaa) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/8f5cf03c-c2dd-4d3e-ae9a-c70c1a0dc776) | ![스케줄 삭제](https://github.com/user-attachments/assets/4557e29d-b8d6-45ee-b27c-a9bfc2299c69) |
+| :-------------: | :----------------: | :---------------: | :---------------: |
+| ![새 스케줄 생성](https://github.com/user-attachments/assets/49e22e57-49dc-491c-ae80-cda3963522a7) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/525af6a8-87d0-47b9-9702-5ca93382bdaa) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/483d3abe-3d29-490a-9a15-432536195d38) | ![스케줄 삭제](https://github.com/user-attachments/assets/4557e29d-b8d6-45ee-b27c-a9bfc2299c69) |
 | 할 일, 담당자, 날짜, 시간, 반복, 알림, 메모 등을 <br> 입력하여 새 스케줄을 생성할 수 있습니다. | 반복되지 않는 단일 스케줄의 경우에는  <br> 할 일, 날짜, 시간, 반복, 메모 항목을 변경할 수 있습니다. | 반복 스케줄의 경우에는 이후 스케줄도 변경할지 혹은 해당 스케줄만 변경할지 선택할 수 있습니다. | 스케줄 삭제가 가능합니다. 반복 스케줄의 경우에는 <br> 이후 스케줄도 삭제할지 혹은 해당 스케줄만 삭제할지 선택할 수 있습니다. |
-
 
 
 ### 4) 설정 페이지 기타 기능
@@ -107,6 +108,7 @@
 | :-------------: | :----------------: | :---------------: | :---------------: |
 | ![설정 페이지](https://github.com/user-attachments/assets/d3b62fb1-a3e7-4032-b940-8dd6241f2b47) | ![내 프로필 수정](https://github.com/user-attachments/assets/be4b459a-14a1-4254-a988-d52c4195c086) | ![강아지 프로필 수정](https://github.com/user-attachments/assets/397edce4-8026-4e64-a4fe-10323b6059aa)  |  ![메이트 초대하기](https://github.com/user-attachments/assets/a14fd2aa-f35e-4fdc-94ca-b8d873d5a3c5) 
 | 설정 페이지에서 알림 토글, 로그아웃, 회원탈퇴 등의 <br> 기능을 확인할 수 있습니다. | 내 프로필 수정을 할 수 있습니다. | 강아지 프로필 수정을 할 수 있습니다.  | 강아지를 같이 케어할 메이트를 초대할 수 있습니다.  |
+
 
 
 <!--
