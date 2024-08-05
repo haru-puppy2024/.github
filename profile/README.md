@@ -96,7 +96,7 @@
 
 | 새 스케줄 생성| 단일 스케줄 수정| 반복 스케줄 수정 | 스케줄 삭제 |
 | :--------: | :--------: | :--------: | :-----: |
-| ![새 스케줄 생성](https://github.com/user-attachments/assets/49e22e57-49dc-491c-ae80-cda3963522a7) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/58c8abb0-dd07-467f-9add-2fe26f17e3b7) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/c778b4c2-de96-48d8-aef7-8049463590a0) | ![스케줄 삭제](https://github.com/user-attachments/assets/b24c98c7-653a-4efe-882b-fa708232c1f4) |
+| ![새 스케줄 생성](https://github.com/user-attachments/assets/49e22e57-49dc-491c-ae80-cda3963522a7) | ![단일 스케줄 수정](https://github.com/user-attachments/assets/525af6a8-87d0-47b9-9702-5ca93382bdaa) | ![반복 스케줄 수정](https://github.com/user-attachments/assets/8f5cf03c-c2dd-4d3e-ae9a-c70c1a0dc776) | ![스케줄 삭제](https://github.com/user-attachments/assets/4557e29d-b8d6-45ee-b27c-a9bfc2299c69) |
 | 할 일, 담당자, 날짜, 시간, 반복, 알림, 메모 등을 <br> 입력하여 새 스케줄을 생성할 수 있습니다. | 반복되지 않는 단일 스케줄의 경우에는  <br> 할 일, 날짜, 시간, 반복, 메모 항목을 변경할 수 있습니다. | 반복 스케줄의 경우에는 이후 스케줄도 변경할지 혹은 해당 스케줄만 변경할지 선택할 수 있습니다. | 스케줄 삭제가 가능합니다. 반복 스케줄의 경우에는 <br> 이후 스케줄도 삭제할지 혹은 해당 스케줄만 삭제할지 선택할 수 있습니다. |
 
 
