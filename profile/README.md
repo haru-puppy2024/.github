@@ -6,13 +6,13 @@
 
 </div>
 
-**[배포 URL]**
+<!--**[배포 URL]**
 
-- URL: 
+- URL: -->
 
 <!-- 이미지 -->
 
-![하루강아지 메인 이미지](https://github.com/user-attachments/assets/2467e516-5525-4089-99dc-b55ac2605e6e)
+[![하루강아지 메인 이미지](https://github.com/user-attachments/assets/2467e516-5525-4089-99dc-b55ac2605e6e)](https://haru-puppy-frontend.vercel.app)
 
 ## 1. 소개 🐶
 
@@ -23,6 +23,8 @@
 - 가족 구성원들이 날짜, 시간, 담당자, 메모 등을 포함한 강아지 스케줄을 캘린더에서 확인할 수 있습니다.
 
 - 홈에서 주간 산책 횟수, 오늘 배변 횟수, 마지막 목욕 날짜, 마지막 건강검진 날짜 등의 레포트를 확인할 수 있습니다.
+
+- 등록한 스케줄 설정에 따라 가족 구성원 모두에게 알림을 보내 확인할 수 있습니다.
 
 ## 하루강아지 팀원 👥
 
@@ -36,11 +38,11 @@
 **[개발 환경]**
 
 - Front-End: Next.js, React-query, Recoil, Styled-components
-- Back-End: Java, spring
+- Back-End: Java 17, SpringBoot, Spring Security, Spring Data Jpa, Spring Scheduler, MariaDB, Redis
 
 **[배포 URL]**
 
-- URL: 
+- URL: https://haru-puppy-frontend.vercel.app
 
 ## 3. 개발일정 🗓
 
@@ -73,7 +75,7 @@
 
 ### [👩🏻‍💻안세준](https://github.com/asjjun)
 
-- 
+- 백엔드 서버 개발 및 배포
 
 ## 6. 구현 기능 🛠
 
